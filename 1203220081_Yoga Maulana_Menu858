@@ -89,7 +89,7 @@ int main() {
     // Gunakan strcmp untuk membandingkan string
     if (strcmp(menu, "*858#") == 0) {
         do {
-            printf("\nPulsa anda: Rp. 81.000\n");
+            printf("\nPulsa anda: Rp. 15.000\n");
             printf("1. Transfer Pulsa\n");
             printf("2. Minta Pulsa\n");
             printf("3. Paket Internet\n");
